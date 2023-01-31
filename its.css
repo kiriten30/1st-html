@@ -1,0 +1,102 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: url(650796.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 10px;
+}
+
+
+.left {
+    border: 1px solid red;
+    width: 5%;
+    left: 3px;
+    top: 10px;
+    padding: 3px;
+    position: absolute;
+    display: inline-block;
+    
+
+}
+
+
+
+
+
+.top {
+    border: 1px solid red;
+    width: 30%;
+    margin: 12px auto;
+    font-size: larger;
+    font-weight: 400;
+    top: 10px;
+    padding: 3px;
+  }
+ul {
+    list-style-type: none;
+}
+
+  li {
+    padding: 4px;
+
+  }
+
+a {
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: larger;
+    font-style: oblique;
+    font-weight: 400;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.right {
+    border: 1px solid red;
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 400;
+    width: 15%;
+    right: 3px;
+    top: 10px;
+    padding: 3px;
+    position: absolute;
+    display: inline-block;
+}
+
+
+.btn {
+    padding: 10px 17px;
+    color: white;
+    background-color: maroon;
+
+}
+
+.suck {
+    padding: 5px;
+    border: 6px solid red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: red;
+    top: 222px;
+    text-align: center;
+    right: 262px;
+    margin: 11px;
+    display: inline;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
