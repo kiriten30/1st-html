@@ -91,6 +91,19 @@ a:hover {
 }
 
 
+.user {
+    border: none;
+    border-radius: auto;
+    width: 20%;
+    margin: 40px;
+    display: inline-block;
+    top: 300px;
+    left: 70px;
+    position: absolute;
+    color: white;
+
+}
+
 
 
 
