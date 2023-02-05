@@ -35,15 +35,23 @@
     </header>   
     <div class="suck">
         <p>Play For Free</p>
+      
     </div>
     <div class="user">
+        <label for="fname">Username:</label><br>
         <form action="/action_page.php">
-            <label for="fname">Username:</label><br>
-            <input type="text" id="fname" name="fname" ><br>
             <label for="lname">Game Mode:</label><br>
+            <input type="text" id="fname" name="fname" ><br>
+            <label for="country">country</label>
             <input type="text" id="lname" name="lname" ><br><br>
+            <option value="australia">Australia</option>
+            <select id="country" name="country">
+                <option value="usa">USA</option>
+                <option value="canada">Canada</option>
+            </select>
+            
             <input type="submit" value="Submit" >
-            <input type="reset">
+            
           </form>
     </div> 
 
